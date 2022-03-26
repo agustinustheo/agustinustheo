@@ -23,7 +23,7 @@ jobs:
           filename: iso-calender.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: AurevoirXavier
+          user: agustinustheo
           template: classic
           base: ""
           config_timezone: Europe/Kiev
@@ -46,7 +46,7 @@ jobs:
           filename: languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: AurevoirXavier
+          user: agustinustheo
           template: classic
           base: ""
           config_timezone: Europe/Kiev
@@ -60,7 +60,7 @@ jobs:
           filename: stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: AurevoirXavier
+          user: agustinustheo
           template: classic
           base: ""
           config_timezone: Europe/Kiev
@@ -74,7 +74,7 @@ jobs:
           filename: wakatime.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: AurevoirXavier
+          user: agustinustheo
           template: classic
           base: ""
           config_timezone: Europe/Kiev
@@ -90,7 +90,7 @@ jobs:
           filename: activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: AurevoirXavier
+          user: agustinustheo
           template: classic
           base: ""
           config_timezone: Europe/Kiev
@@ -106,7 +106,7 @@ jobs:
           filename: metadata.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: AurevoirXavier
+          user: agustinustheo
           template: classic
           base: metadata
           config_timezone: Europe/Kiev
